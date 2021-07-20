@@ -1,12 +1,18 @@
 ﻿using System.Data;
 using System.Text;
 using System.Security.Cryptography;
+using System.Collections.Generic;
 using System;
 
 namespace rockpapersciccors
 {
     class Program
     {   
+        public static bool AreDistinct (string [] arr){
+            HashSet<string> s = new HashSet<string>(arr);
+            return (s.Count == arr.Length);
+        }   
+
         public static byte[] KeyGenerating(){
             RandomNumberGenerator rng = RandomNumberGenerator.Create();
             var key = new byte[16];
@@ -49,7 +55,7 @@ namespace rockpapersciccors
 
         static void Main(string[] args)
         {   
-            if (args.Length%2 == 1 && args.Length>=3){
+            if (args.Length%2 == 1 && args.Length>=3 && AreDistinct(args) ){
                 var key = KeyGenerating();
                 int computerMoveIndex = GetMove(args.Length);
                 string HMAC = GetHMAC(key, args[computerMoveIndex]);
@@ -69,7 +75,7 @@ namespace rockpapersciccors
                 Console.WriteLine("HMAC key: " + BitConverter.ToString(key).Replace("-", "").ToLower());
 
             }else{
-                Console.WriteLine("Please input an odd number of any 3 or more arguments like this:");
+                Console.WriteLine("Please input an ODD number of ANY UNIQUE 3 or MORE arguments like this:");
                 Console.WriteLine("For example: `rock scissors paper lizard spook 1 2 3 Rock Paper`");
             }
         }
