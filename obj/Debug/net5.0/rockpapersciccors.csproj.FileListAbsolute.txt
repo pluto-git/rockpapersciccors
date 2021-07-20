@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\bin\Debug\net5.0\rockpapersciccors.exe
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\bin\Debug\net5.0\rockpapersciccors.deps.json
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\bin\Debug\net5.0\rockpapersciccors.runtimeconfig.json
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\bin\Debug\net5.0\rockpapersciccors.runtimeconfig.dev.json
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\bin\Debug\net5.0\rockpapersciccors.dll
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\bin\Debug\net5.0\ref\rockpapersciccors.dll
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\bin\Debug\net5.0\rockpapersciccors.pdb
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\obj\Debug\net5.0\rockpapersciccors.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\obj\Debug\net5.0\rockpapersciccors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\obj\Debug\net5.0\rockpapersciccors.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\obj\Debug\net5.0\rockpapersciccors.AssemblyInfo.cs
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\obj\Debug\net5.0\rockpapersciccors.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\obj\Debug\net5.0\rockpapersciccors.dll
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\obj\Debug\net5.0\ref\rockpapersciccors.dll
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\obj\Debug\net5.0\rockpapersciccors.pdb
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\obj\Debug\net5.0\rockpapersciccors.genruntimeconfig.cache

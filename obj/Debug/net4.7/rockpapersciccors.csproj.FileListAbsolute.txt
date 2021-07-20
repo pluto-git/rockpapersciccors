@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\obj\Debug\net4.7\rockpapersciccors.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\obj\Debug\net4.7\rockpapersciccors.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\obj\Debug\net4.7\rockpapersciccors.AssemblyInfo.cs
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\obj\Debug\net4.7\rockpapersciccors.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\bin\Debug\net4.7\rockpapersciccors.exe.config
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\bin\Debug\net4.7\rockpapersciccors.exe
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\bin\Debug\net4.7\rockpapersciccors.pdb
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\bin\Debug\net4.7\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\obj\Debug\net4.7\rockpapersciccors.csproj.CopyComplete
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\obj\Debug\net4.7\rockpapersciccors.exe
+C:\Users\User\Desktop\iTransition\Tasks\Task3\rockpapersciccors\obj\Debug\net4.7\rockpapersciccors.pdb
