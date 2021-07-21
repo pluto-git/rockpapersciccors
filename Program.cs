@@ -76,7 +76,7 @@ namespace rockpapersciccors
 
             }else{
                 Console.WriteLine("Please input an ODD number of ANY UNIQUE 3 or MORE arguments like this:");
-                Console.WriteLine("For example: `rock scissors paper lizard spook 1 2 3 Rock Paper`");
+                Console.WriteLine("For example: `rock scissors paper lizard spook 1 2 Rock Paper`");
             }
         }
     }
